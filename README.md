@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💡 Full Stack Developer | 🚀 Passionate about Web, AI Technologies
+  💡 Full Stack Developer | 🚀 Passionate about Web & AI Technologies
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Next.js;AI+%26+Automation+Lover;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Next.js;AI+%26+Automation+Lover;Open+Source+Contributor" />
 </p>
 
 ---
@@ -26,14 +26,14 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpsMmdzdXVrYmU3M2dkYjU5aGZ1MzVsdmhpM3R0bXo3a2IzazA2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="developer at desk">
 </p>
 
 <p align="center">
-  🔭 Currently working on <b>Full Stack Web, AI projects</b><br>
-  🌱 Learning <b>Microservices and AI integrations</b><br>
-  💬 Ask me about <b>Laravel, Node.js, Vue, React, Next.js and API Architecture</b><br>
-  🎯 Goal: To build <b>scalable and efficient digital ecosystems</b><br>
+  🔭 Currently working on <b>Full Stack Web & AI-driven applications</b><br>
+  🌱 Continuously exploring <b>Microservices, Next.js, and AI integrations</b><br>
+  💬 Ask me about <b>Laravel, Node.js, Vue, React, Next.js, and API Architecture</b><br>
+  🎯 Goal: To build <b>scalable, secure, and intelligent digital solutions</b><br>
   ⚡ Fun fact: I debug faster when music is playing 🎧  
 </p>
 
@@ -46,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,nextjs,vue,nuxtjs,js,bootstrap,tailwind,wordpress,github,docker,aws,sass,linux,figma,postman,swagger,postgresql,mongodb&perline=10" />
 </p>
 
+<p align="center">
+  💻 Skilled across both frontend and backend stacks — delivering performant, maintainable, and secure web systems with a focus on clean architecture and scalability.
+</p>
+
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -53,9 +57,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdulMoeed&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdulMoeed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdulMoeed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
