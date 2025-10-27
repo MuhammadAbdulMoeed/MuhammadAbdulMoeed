@@ -29,13 +29,27 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="developer at desk">
 </p>
 
-<p align="center">
-  🔭 Currently working on <b>Full Stack Web & AI-driven applications</b><br>
-  🌱 Continuously exploring <b>Microservices, Next.js, and AI integrations</b><br>
-  💬 Ask me about <b>Laravel, Node.js, Vue, React, Next.js, and API Architecture</b><br>
-  🎯 Goal: To build <b>scalable, secure, and intelligent digital solutions</b><br>
-  ⚡ Fun fact: I debug faster when music is playing 🎧  
-</p>
+<div align="center">
+
+💼 <b>Currently Building:</b>  
+Crafting <b>MERN Stack</b> & <b>AI-powered web applications</b> with scalable and modular architectures.  
+<br><br>
+
+🚀 <b>Exploring:</b>  
+Advancing skills in <b>Next.js</b>, <b>Microservices</b>, and <b>Cloud Deployments</b>.  
+<br><br>
+
+💡 <b>Ask Me About:</b>  
+<b>MongoDB</b>, <b>Express.js</b>, <b>React</b>, <b>Node.js</b>, and <b>API Performance Optimization</b>.  
+<br><br>
+
+🎯 <b>Goal:</b>  
+To engineer <b>robust, intelligent, and high-performing web ecosystems</b>.  
+<br><br>
+
+🎧 <b>Fun Fact:</b>  
+My code runs smoother when the beats are louder! 😎  
+</div>
 
 ---
 
